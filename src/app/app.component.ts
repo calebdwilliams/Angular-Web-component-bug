@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Angular breaks Web Components';
+
+  log(event) {
+    console.log(event.srcElement);
+  }
 }

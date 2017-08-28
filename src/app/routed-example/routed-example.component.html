@@ -1,0 +1,9 @@
+<div>
+  <h1>This is inside a <code>router-outlet</code></h1>
+
+  <p>No timeout</p>
+  <abstract-button inner-text="should show if it works (no timeout)" (click)="log($event)"></abstract-button>
+
+  <p>With timeout</p>
+  <abstract-button-timeout inner-text="should show if it works (timeout)" (click)="log($event)"></abstract-button-timeout>
+</div>

@@ -129,7 +129,7 @@
   dependencies:
     tslib "^1.7.1"
 
-"@angular/router@^4.0.0":
+"@angular/router@^4.3.6":
   version "4.3.6"
   resolved "https://artifactory.cloud.capitalone.com:443/artifactory/api/npm/npm-internalfacing/@angular/router/-/router-4.3.6.tgz#64033edb4fcda08a323e7533b4a1820c0f28d130"
   dependencies:
@@ -5062,6 +5062,10 @@ wbuf@^1.1.0, wbuf@^1.7.2:
   resolved "https://artifactory.cloud.capitalone.com:443/artifactory/api/npm/npm-internalfacing/wbuf/-/wbuf-1.7.2.tgz#d697b99f1f59512df2751be42769c1580b5801fe"
   dependencies:
     minimalistic-assert "^1.0.0"
+
+webcomponentsjs@^1.0.2:
+  version "1.0.2"
+  resolved "https://artifactory.cloud.capitalone.com:443/artifactory/api/npm/npm-internalfacing/webcomponentsjs/-/webcomponentsjs-1.0.2.tgz#b028914c579a61d8144913c7c94c2cf73b95fc69"
 
 webdriver-js-extender@^1.0.0:
   version "1.0.0"
